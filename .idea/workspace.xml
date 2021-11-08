@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b17ae11-5842-41c4-ba34-4e5aa78e0680" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="20Woys1no4FgpR1SmRk7yE57xc9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="默认调试浏览器" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" restartOnDisconnect="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b17ae11-5842-41c4-ba34-4e5aa78e0680" name="默认的" comment="" />
+      <created>1636169963572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636169963572</updated>
+      <workItem from="1636169965134" duration="8274000" />
+      <workItem from="1636285639026" duration="76000" />
+      <workItem from="1636285862608" duration="11000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="245" key="#Notifications" timestamp="1636170114477">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state x="460" y="245" key="#Notifications/0.25.1440.784@0.25.1440.784" timestamp="1636170114477" />
+    <state x="188" y="76" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636257351482">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state x="188" y="76" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.784@0.25.1440.784" timestamp="1636257351482" />
+    <state x="576" y="309" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636287067605">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state x="576" y="309" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.784@0.25.1440.784" timestamp="1636287067605" />
+    <state x="597" y="432" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1636287059890">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state x="597" y="432" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.784@0.25.1440.784" timestamp="1636287059890" />
+    <state x="1" y="25" key="SettingsEditor" timestamp="1636257031823">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state x="1" y="25" key="SettingsEditor/0.25.1440.784@0.25.1440.784" timestamp="1636257031823" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1636286097701">
+      <screen x="0" y="25" width="1440" height="784" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.25.1440.784@0.25.1440.784" timestamp="1636286097701" />
+  </component>
+</project>
